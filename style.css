@@ -81,3 +81,40 @@ body {
 .other-amount-color {
     color: #c9bfbf;
 }
+
+.donate-plan {
+    width: 100%;
+    text-align: center;
+    margin-top: 64px;
+}
+
+.donate-plan-item-container {
+    width: 100%;
+    margin-left: 20%;
+    margin-right: 20%;
+    display: flex;
+
+}
+
+.donate-plan-item {
+
+    width: 20%;
+    text-align: left;
+
+    padding-top: 18px;
+    padding-left: 10px;
+    margin-right: 23px;
+
+}
+
+.color1 {
+    background-color: #3eebda1c;
+}
+
+.color2 {
+    background-color: #e3e3c2;
+}
+
+.color3 {
+    background-color: #b9d7b9;
+}
