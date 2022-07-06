@@ -135,3 +135,23 @@ body {
     text-align: center;
     color: orange;
 }
+
+.feature {
+    margin-bottom: 20px
+}
+
+.feature-section {
+    width: 100%;
+    display: flex;
+}
+
+.feature-section {
+    width: 80%;
+    display: flex;
+    margin-left: 11%;
+}
+
+.feature-section-item img {
+    border-radius: 5px;
+
+}
