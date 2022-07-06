@@ -26,3 +26,58 @@ body {
     color: white;
     ;
 }
+
+.banner-btn {
+    background-color: #3a0404;
+    color: white;
+    border-radius: 5px;
+    border: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.donate-section {
+    width: 100%;
+    text-align: center;
+    margin-top: 59px;
+}
+
+.flex-container {
+    display: flex;
+    text-align: center;
+    width: 75%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.flex-container div {
+
+    width: 13%;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+    border-radius: 5px;
+
+}
+
+.number-highlight {
+
+    border: 3px solid orange;
+    background-color: #e2efef
+}
+
+.other-amount {
+    width: 100%;
+    text-align: center;
+}
+
+.other-amount-hr {
+    width: 50%;
+}
+
+.other-amount-color {
+    color: #c9bfbf;
+}
