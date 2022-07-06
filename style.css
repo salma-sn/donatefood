@@ -89,16 +89,17 @@ body {
 }
 
 .donate-plan-item-container {
-    width: 100%;
-    margin-left: 20%;
-    margin-right: 20%;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
     display: flex;
-
+    margin-top: 33px;
+    margin-bottom: 53px;
 }
 
 .donate-plan-item {
 
-    width: 20%;
+    width: 30%;
     text-align: left;
 
     padding-top: 18px;
@@ -117,4 +118,20 @@ body {
 
 .color3 {
     background-color: #b9d7b9;
+}
+
+.footer {
+    background: black;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+.footer-headline {
+    text-align: center;
+    color: white;
+}
+
+.footer-parag {
+    text-align: center;
+    color: orange;
 }
